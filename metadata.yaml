@@ -1,5 +1,8 @@
 _repo: Bonanza-b-A-story-of-the-outside_75921
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75921-h/images/cover.jpg
 creator:
   author:
     agent_name: Trevena, John
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37074
     wikipedia: https://en.wikipedia.org/wiki/Ernest_George_Henham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75921#Bonanza-b-A-story-of-the-outside
 gutenberg_issued: '2025-04-21'
 gutenberg_type: Text
 identifiers:
